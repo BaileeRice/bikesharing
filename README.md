@@ -1,4 +1,6 @@
 # bikesharing
+DATASET: https://s3.amazonaws.com/tripdata/index.html
+
 PURPOSE:
 
 Creating visualizations on NYC CitiBike data via Tableau for investors to see if buying into a bike-sharing program in Des Moines, Iowa is a fruitful venture.
