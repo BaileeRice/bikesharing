@@ -39,6 +39,8 @@ A simple bar chart displaying the peak hours in the month of August, that being 
 
 ---
 
+SUMMARY:
+
 I believe that with Des Moines being the largest city in Iowa while still being relatively centralized, a convenient transportation startup could do quite well, you could always start with a small round of bikes to see if it is recieved well. In a city with bustling streets and packed side walks, the biking lane seems like the best option.
 
 Having a larger dataset that encompassed more of the year could help get an even better idea of whether this venture proves to be a profitable one.
