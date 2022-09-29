@@ -3,7 +3,7 @@ PURPOSE:
 
 Creating visualizations on NYC CitiBike data via Tableau for investors to see if buying into a bike-sharing program in Des Moines, Iowa is a fruitful venture.
 
-<STORY-LINK Mod14_challenge | Tableau Public  STORY-LINK>
+<STORY-LINK> https://public.tableau.com/app/profile/bailee.rice/viz/Mod14_challenge/CitiBike_Viz?publish=yes <STORY-LINK>
 ---
 
 RESULTS:
@@ -35,6 +35,7 @@ A glimpse into where the top starting points are for CitiBike users, notably pop
 ![image](https://user-images.githubusercontent.com/105184244/192994476-c5e63b40-ffe9-4e15-8f87-fe7c213efaf4.png)
 
 A simple bar chart displaying the peak hours in the month of August, that being ~5 to ~8pm.
+
 ---
 
 I believe that with Des Moines being the largest city in Iowa while still being relatively centralized, a convenient transportation startup could do quite well, you could always start with a small round of bikes to see if it is recieved well. In a city with bustling streets and packed side walks, the biking lane seems like the best option.
