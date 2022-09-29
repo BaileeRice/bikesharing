@@ -1,5 +1,5 @@
 # bikesharing
-DATASET: https://s3.amazonaws.com/tripdata/index.html
+DATASET: https://s3.amazonaws.com/tripdata/index.html (201908-citibike-tripdata)
 
 PURPOSE:
 
