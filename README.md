@@ -3,7 +3,8 @@ PURPOSE:
 
 Creating visualizations on NYC CitiBike data via Tableau for investors to see if buying into a bike-sharing program in Des Moines, Iowa is a fruitful venture.
 
-<STORY-LINK> https://public.tableau.com/app/profile/bailee.rice/viz/Mod14_challenge/CitiBike_Viz?publish=yes <STORY-LINK>
+STORY-LINK https://public.tableau.com/app/profile/bailee.rice/viz/Mod14_challenge/CitiBike_Viz?publish=yes STORY-LINK
+
 ---
 
 RESULTS:
